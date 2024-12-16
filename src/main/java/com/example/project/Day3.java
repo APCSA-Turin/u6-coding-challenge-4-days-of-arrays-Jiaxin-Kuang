@@ -3,7 +3,6 @@ package com.example.project;
 public class Day3 {
       public static String[][] generateSnowflake(int size) { //you will be tested on this method
         String[][] grid = new String[size][size];
-
     
 
         return grid;
